@@ -57,9 +57,6 @@ const Hero = () => {
       <div className="container">
         <div className="hero-content">
           <div className="hero-text">
-            <div className="hero-badge">
-              <span className="badge-text">🚀 #1 SEO Agency</span>
-            </div>
             <h1 className="hero-title">
               Dominate Search Results &<br />
               <span className="hero-shiny-text">Drive Real Growth</span>
